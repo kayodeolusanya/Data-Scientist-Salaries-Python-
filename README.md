@@ -17,4 +17,4 @@ translates into an ability to relocate far more easily—from city
 to city, and even internationally.
 
 This project aims to do a comprehensive Exploratory Data Analysis of the
-salaries collected by data and features therein, ranging from Experience level, locationJob type etc.
+salaries collected by the data and features therein, ranging from Experience level, location, Job type etc.
